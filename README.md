@@ -17,10 +17,9 @@ Complete the following exercises: [Coding Bat](https://codingbat.com/python/Warm
 
 If the codingbat-exercises are very difficult for you, do mention that in your email. The whole point of these exercises is checking the level of all students participating in this course, so copying the solutions or asking an AI to make them for you won’t get you a better grade but will make the rest of the course exponentially more difficult.
 
-## sessions
+## Sessions
 
-### Session 1: Regex and scraping
-
-### Session 2: Numpy and Matplotlib
-
-### Session 3: Pandas
+* Session 1: Regex and scraping
+* Session 2: Numpy and Matplotlib
+* Session 3: Pandas
+* Session 4: Roundup and presentations
